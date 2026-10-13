@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "vastattavissa": true,
+    "kysymys": "Montako asukasta on postinumeroalueella 00100?",
+    "vastaus": "DATASTA: LÖYTYY\n\nPostinumeroalueella 00100 (Helsinki keskusta - Etu-Töölö) on tietokannan mukaan **5 567** asukasta. Luku on sarakkeessa `s01`. Sarakekuvauksissa ei ole selitteitä, joten sarakkeen merkitys on päätelty asemasta. Tulkinta on todennäköinen, mutta en pysty varmistamaan sitä tietokannasta. Tietokannasta ei myöskään selviä, minkä vuoden tilanteesta luku on.",
+    "oikein": false
+  },
+  {
+    "id": 2,
+    "vastattavissa": true,
+    "kysymys": "Mikä on Tampereen postinumeroalueiden yhteenlaskettu asukasmäärä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole saraketta, joka olisi nimetty asukasmääräksi. Sarakkeet on nimetty s01–s85, ja sarakekuvaukset ovat tyhjiä, joten en voi varmistaa, mikä sarake on kokonaisasukasmäärä. Tampereelle löytyy 36 postinumeroaluetta.\n\nJos oletetaan, että sarake s27 on kokonaisasukasmäärä, Tampereen postinumeroalueiden summa olisi 258 512. Tämä on pelkkä arvaus, koska sarakkeen merkitystä ei ole dokumentoitu. Tarkan vastauksen saamiseksi tarvitaan sarakkeiden kuvaukset tai tieto siitä, mikä sarake vastaa asukasmäärää.",
+    "oikein": false
+  },
+  {
+    "id": 3,
+    "vastattavissa": true,
+    "kysymys": "Millä postinumerolla on Suomen asukasmäärältään suurin postinumeroalue?",
+    "vastaus": "DATASTA: LÖYTYY\n\nSuurin postinumeroalue asukasmäärällä on 20100 Turku Keskus, jossa on 31 156 asukasta.\n\nSarakkeiden kuvaukset ovat tyhjiä, joten asukasmäärän sarakkeen tunnistin laskemalla sarakkeiden summia. Sarakkeen s27 summa on noin 5,56 miljoonaa, mikä vastaa Suomen väkilukua, joten pidän sitä asukasmääränä.",
+    "oikein": true
+  },
+  {
+    "id": 4,
+    "vastattavissa": true,
+    "kysymys": "Mikä on asukkaiden mediaanitulo postinumeroalueella 02100?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole selitteitä sarakkeille. Sarakekuvaukset-taulun kuvaukset ovat kaikki tyhjiä, ja sarakkeet on nimetty vain koodeilla s01–s85. Postinumeron 02100 (Tapiola, Espoo) rivillä on arvoja, mutta ilman selitteitä en voi tunnistaa, mikä sarake vastaa mediaanituloa. Arvojen perusteella en voi luotettavasti päätellä sitä.",
+    "oikein": false
+  },
+  {
+    "id": 5,
+    "vastattavissa": true,
+    "kysymys": "Monessako kunnassa on vähintään 30 postinumeroaluetta?",
+    "vastaus": "DATASTA: LÖYTYY\n\n16 kunnassa on vähintään 30 postinumeroaluetta. Tietokannassa on yhteensä 3 018 postinumeroaluetta 308 kunnassa.",
+    "oikein": true
+  },
+  {
+    "id": 6,
+    "vastattavissa": true,
+    "kysymys": "Paljonko Kuopion postinumeroalueilla on työpaikkoja yhteensä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole selitettyä työpaikkojen saraketta. Sarakkeet on nimetty pelkästään koodeilla (s01–s85), ja `sarakekuvaukset`-taulun kuvaukset ovat tyhjiä. En pysty luotettavasti tunnistamaan, mikä sarake kuvaa työpaikkoja, joten en voi antaa summaa Kuopion postinumeroalueiden työpaikoista.\n\nJos tiedät, mikä sarake vastaa työpaikkoja, tai saat sarakkeiden selitteet, voin laskea summan Kuopion postinumeroalueilta.",
+    "oikein": false
+  },
+  {
+    "id": 7,
+    "vastattavissa": true,
+    "kysymys": "Monellako postinumeroalueella asukkaiden keski-ikä on yli 60 vuotta?",
+    "vastaus": "DATASTA: LÖYTYY\n\nTietokannassa on 108 postinumeroaluetta, joiden keski-ikä on yli 60 vuotta.\n\nSarakkeilla ei ole kuvauksia, joten keski-iäksi olen tulkinnut sarakkeen s53. Tulkinta perustuu siihen, että sen arvot (esim. Kaivopuisto 42,7 ja Kaartinkaupunki 45,1) vaikuttavat järkeviltä keski-iän arvoilta. Varmistus on hyvä tehdä ennen johtopäätöksiä.",
+    "oikein": false
+  },
+  {
+    "id": 8,
+    "vastattavissa": true,
+    "kysymys": "Montako työtöntä asuu Rovaniemen postinumeroalueilla yhteensä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa on sarakkeet s01–s85, mutta niiden kuvaukset ovat tyhjiä, eikä mikään sarake ole nimetty työttömyyden mukaan. En pysty siis tunnistamaan, mikä sarake kuvaa työttömiä, enkä laskea heidän määräänsä Rovaniemen postinumeroalueilla.\n\nRovaniemen alueita on tietokannassa 51 postinumeroalueen verran, esimerkiksi 96100 (Rovaniemi Keskus) ja 97110 (Rautionsaari). Jos kerrot, mikä sarake vastaa työttömiä, voin laskea summan.",
+    "oikein": false
+  },
+  {
+    "id": 9,
+    "vastattavissa": true,
+    "kysymys": "Missä kunnassa on eniten postinumeroalueita?",
+    "vastaus": "DATASTA: LÖYTYY\nEniten postinumeroalueita on Helsingissä (84). Seuraavaksi tulevat Kuopio (65) ja Kouvola (49).",
+    "oikein": true
+  },
+  {
+    "id": 10,
+    "vastattavissa": true,
+    "kysymys": "Montako kotitaloutta asuu vuokra-asunnoissa Espoon postinumeroalueilla yhteensä?",
+    "vastaus": "",
+    "oikein": false
+  },
+  {
+    "id": 11,
+    "vastattavissa": true,
+    "kysymys": "Mikä on asukkaiden keski-ikä postinumeroalueella 90100?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole keski-iän saraketta. Sarakekuvaukset-taulun kuvaukset ovat tyhjiä, ja alueet-taulun sarakkeet on nimetty vain koodeilla s01–s85. Postinumeroalueen 90100 (Oulu Keskus) riviltä ei siis voi päätellä, mikä luku on keski-ikä.",
+    "oikein": false
+  },
+  {
+    "id": 12,
+    "vastattavissa": true,
+    "kysymys": "Montako rahoitus- ja vakuutusalan työpaikkaa on Helsingin postinumeroalueilla yhteensä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole selitettyjä sarakkeita. Alueet-taulun sarakkeet ovat nimettyinä vain koodeilla (s01–s85), ja sarakekuvaukset-taulun kuvaukset ovat tyhjiä. En pysty siis tunnistamaan, mikä sarake kuvaa rahoitus- ja vakuutusalan työpaikkoja, joten en voi laskea lukua luotettavasti. Jos tiedät, mikä sarake vastaa tätä alaa, voin laskea Helsingin postinumeroalueiden summan siitä.",
+    "oikein": false
+  },
+  {
+    "id": 13,
+    "vastattavissa": true,
+    "kysymys": "Monellako postinumeroalueella asukasmäärä on nolla?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy selitettyä asukasmäärä-saraketta. Sarakekuvaukset ovat tyhjiä, joten en voi varmasti tietää, mikä sarakkeista on asukasmäärä. Jos oletetaan, että asukasmäärä on sarake `s01`, nollia on 656 aluetta 3 018:sta. Lisäksi 333 alueella arvo puuttuu. Tämä perustuu kuitenkin oletukseen, ja vahvistus tarvitaan ennen kuin luotat lukuun.",
+    "oikein": false
+  },
+  {
+    "id": 14,
+    "vastattavissa": true,
+    "kysymys": "Montako asuntoa Turun postinumeroalueilla on yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nTurun 27 postinumeroalueen yhteissumma on 116 749 asuntoa. Tämä perustuu sarakkeeseen s08, joka on yhtenevä sarakkeen s22 kanssa kaikilla Turun alueilla. Sarakkeille ei ole kuvauksia (`sarakekuvaukset`-taulun kuvaukset ovat tyhjiä), joten sarakkeen s08 tulkinta asunnoiksi on päätelty aineistosta eikä varmistettu.",
+    "oikein": false
+  },
+  {
+    "id": 15,
+    "vastattavissa": true,
+    "kysymys": "Monellako Jyväskylän postinumeroalueella asuu yli 1000 eläkeläistä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole selkeää saraketta eläkeläisille. Sarakekuvaukset ovat tyhjiä, joten en pysty tunnistamaan, mikä sarakkeista (s01–s85) kuvaa eläkeläisten määrää. Arvaaminen antaisi epäluotettavan vastauksen. Jos tiedät, mikä sarake vastaa eläkeläisiä, voin laskea Jyväskylän postinumeroalueista ne, joissa on yli 1000 eläkeläistä.",
+    "oikein": false
+  },
+  {
+    "id": 16,
+    "vastattavissa": false,
+    "kysymys": "Paljonko Oulun asukasmäärä kasvoi vuodesta 2020 vuoteen 2024?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei voi laskea Oulun asukasmäärän muutosta vuosina 2020–2024. Taulussa `alueet` on yksi tilannekuva postinumeroalueittain, ei vuosisarjaa. Sarakekuvausten taulu `sarakekuvaukset` on tyhjä, joten en pysty varmistamaan, mikä sarake on asukasluku tai mikä vuosi data edustaa.",
+    "oikein": true
+  },
+  {
+    "id": 17,
+    "vastattavissa": false,
+    "kysymys": "Mikä oli postinumeroalueen 00100 mediaanitulo vuonna 2015?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole vuosissaraketta, eikä sarakkeille ole kuvauksia (`sarakekuvaukset`-taulun kuvaukset ovat tyhjiä). Siksi en voi tunnistaa, mikä sarake on mediaanitulo, enkä varmistaa, että data on vuodelta 2015. Postinumeron 00100 (Helsinki keskusta - Etu-Töölö) rivi on olemassa, mutta sen arvoista ei voi päätellä mediaanituloa vuodelta 2015.",
+    "oikein": true
+  },
+  {
+    "id": 18,
+    "vastattavissa": false,
+    "kysymys": "Mikä postinumeroalue kasvoi nopeimmin viimeisen viiden vuoden aikana?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole aikasarjatietoa, joten kasvua viiden vuoden aikana ei voi laskea. Taulussa `alueet` on yksi tilannekuva per postinumeroalue (postinumero, alue, kunta ja sarakkeet s01–s85). Ajallisia sarakkeita, kuten vuosilukuja tai useita ajankohtia, ei ole. Sarakkeiden kuvauksetkaan eivät kerro, mitä s01–s85 tarkoittavat, sillä `sarakekuvaukset`-taulun kuvaukset ovat tyhjiä.\n\nJos saat tietoon aikasarjan (esim. useita vuosia väestö- tai asukasmääriä postinumeroalueittain) tai sarakkeiden selitteet, voin tehdä kasvuvertailun.",
+    "oikein": true
+  },
+  {
+    "id": 19,
+    "vastattavissa": false,
+    "kysymys": "Mikä on asuntojen keskimääräinen neliöhinta postinumeroalueella 00100?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy neliöhintatietoa. Sarakkeet on nimetty vain koodeilla s01–s85, eikä sarakekuvauksissa ole yhtään kuvausta. Alueen 00100 (Helsinki keskusta – Etu-Töölö) rivillä on arvoja, mutta en pysty tunnistamaan, mikä niistä on neliöhinta. Arvaaminen antaisi epäluotettavan vastauksen.",
+    "oikein": true
+  },
+  {
+    "id": 20,
+    "vastattavissa": false,
+    "kysymys": "Kuinka monta ulkomaan kansalaista asuu Espoon postinumeroalueilla?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy ulkomaan kansalaisten määrää. Sarakkeet on nimetty vain koodeilla (s01–s85), ja sarakekuvausten kentät ovat tyhjiä. Espoon riveiltä ei siksi voi päätellä, mikä sarake vastaa ulkomaan kansalaisia, joten en voi antaa luotettavaa lukua.",
+    "oikein": true
+  },
+  {
+    "id": 21,
+    "vastattavissa": false,
+    "kysymys": "Montako 0–2-vuotiasta lasta asuu Vantaan postinumeroalueilla?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei voi varmasti päätellä lapsimäärää. Sarakkeiden kuvaukset (`sarakekuvaukset`) ovat tyhjiä, joten en tiedä, mikä sarake (s01–s85) kuvaa 0–2-vuotiaita. Taulussa ei myöskään ole vuosisaraketta, joten en voi varmistaa, että data on vuodelta 2024. Jos kerrot, mikä sarake vastaa 0–2-vuotiaita, voin laskea Vantaan postinumeroalueiden summan.",
+    "oikein": true
+  },
+  {
+    "id": 22,
+    "vastattavissa": false,
+    "kysymys": "Mikä on keskimääräinen kuukausivuokra Kuopiossa?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole selkeää vuokratietoa. Sarakkeiden kuvaukset (taulu `sarakekuvaukset`) ovat tyhjiä, joten en pysty tunnistamaan, mikä sarake kuvaa kuukausivuokraa. Sarakkeet on nimetty vain koodeilla s01–s85, eikä niiden sisältöä voi päätellä luotettavasti. Kuopion postinumeroalueiden (esim. 70100 Kuopio Keskus) rivillä on lukuja, mutta niiden merkitystä ei ole dokumentoitu.\n\nJos tiedät, mitä sarakkeet s01–s85 tarkoittavat, voin hakea vuokratiedon. Muuten vuokran keskiarvoa Kuopiossa ei voi vastata tällä datalla.",
+    "oikein": true
+  },
+  {
+    "id": 23,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Helsingin kunnallisveroprosentti?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole kunnallisveroprosentteja. Taulussa `alueet` on postinumeroalueiden nimet ja kunnat sekä numeerisia sarakkeita s01–s85, mutta sarakekuvausten kentät ovat tyhjiä, joten en voi varmistaa, mitä mikin sarake tarkoittaa. Helsingin kunnallisveroprosentin voi tarkistaa Verohallinnon sivuilta.",
+    "oikein": true
+  },
+  {
+    "id": 24,
+    "vastattavissa": false,
+    "kysymys": "Kuinka moni Turun asukas omistaa auton?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole kuvausta autojen omistuksesta. Taulun `alueet` sarakkeet ovat nimettyjä vain koodeilla s01–s85, ja `sarakekuvaukset`-taulun kuvaukset ovat kaikki tyhjiä. En pysty päättelemään, mikä sarake vastaa autojen määrää, joten en voi antaa lukua Turun asukkaiden auto-omistuksesta.",
+    "oikein": true
+  },
+  {
+    "id": 25,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Tampereen työttömyysaste syyskuussa 2024?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei voi päätellä Tampereen työttömyysastetta syyskuussa 2024. Sarakekuvauksien kentät ovat tyhjiä, joten sarakkeet s01–s85 eivät kerro, mikä mittari kukin on. Tauluissa ei myöskään ole aikaulottuvuutta eikä kuukausitietoa. Tampereen postinumeroalueista löytyy rivejä, mutta niiden perusteella en voi tunnistaa työttömyysastetta enkä tarkistaa, onko data vuodelta 2024 tai syyskuulta.",
+    "oikein": true
+  },
+  {
+    "id": 26,
+    "vastattavissa": false,
+    "kysymys": "Miksi Espoon asukkaiden keskitulot ovat korkeammat kuin Vantaan?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokanta ei kerro syitä siihen, miksi Espoon keskitulot ovat korkeammat kuin Vantaan. Se sisältää postinumeroalueittain numeerisia sarakkeita (s01–s85), mutta sarakekuvausten kentät ovat tyhjiä, joten en pysty varmasti tunnistamaan tulosarakkeita. Syy-yhteyksiä, kuten koulutustasoa tai työpaikkojen sijaintia, ei myöskään ole aineistossa.",
+    "oikein": true
+  },
+  {
+    "id": 27,
+    "vastattavissa": false,
+    "kysymys": "Miksi monen maaseutualueen keski-ikä on korkea?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokanta ei kerro syitä. Siinä on postinumeroalueiden lukuarvoja, mutta ei tietoa muuttoliikkeestä, koulutuksesta, työpaikoista tai palveluista, joilla voitaisiin selittää keski-iän nousua. Sarakkeiden kuvauksetkin ovat tyhjiä, joten en voi varmasti sanoa, mikä sarake on keski-ikä. Esimerkiksi sarake s53 saa Helsingin keskustan arvon 39,4, mikä on uskottava keski-iän arvo, mutta varmuutta ei ole.\n\nYleisesti ottaen maaseudulla keski-iän nousuun vaikuttavat tutkimusten mukaan ainakin nuorten muutto kaupunkeihin opiskelun ja työn perässä sekä syntyvyyden lasku ja eläköityminen. Nämä ovat kuitenkin yleistietoa, eivät tämän tietokannan tuloksia.",
+    "oikein": true
+  },
+  {
+    "id": 28,
+    "vastattavissa": false,
+    "kysymys": "Paljonko Oulun asukasmäärän ennustetaan kasvavan vuoteen 2030 mennessä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy Oulun väestöennustetta vuodelle 2030. Sarakekuvauksissa ei ole tekstejä, eikä taulussa ole aikasarjoja tai ennustetietoja. Oulun postinumeroalueiden rivit sisältävät lukuarvoja, joiden merkitystä ei ole dokumentoitu, joten en pysty varmistamaan, mitä ne kuvaavat. Ennustetta varten tarvitaan esimerkiksi Tilastokeskuksen väestöennuste.",
+    "oikein": true
+  },
+  {
+    "id": 29,
+    "vastattavissa": false,
+    "kysymys": "Montako asukasta on postinumeroalueella 99999?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nPostinumeroa 99999 ei ole tietokannassa. Lähimmät löytyvät Lapin pohjoisosista (esim. 99990 Nuorgam). Lisäksi sarakekuvauksissa ei ole selitteitä, joten en pysty varmistamaan, mikä sarake vastaa asukasmäärää.",
+    "oikein": true
+  },
+  {
+    "id": 30,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Lahden suosituin ravintola?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokanta sisältää postinumeroalueiden tilastotietoja (alueet, kunnat ja numeeriset sarakkeet s01–s85). Siinä ei ole ravintoloita eikä tietoa niiden suosiosta, joten Lahden suosituinta ravintolaa ei voi selvittää tästä datasta. Sarakkeiden kuvaukset ovat tyhjiä, joten en voi varmistaa, mitä kukin sarake tarkalleen mittaa.",
+    "oikein": true
+  }
+]

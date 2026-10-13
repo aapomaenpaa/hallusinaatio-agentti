@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "vastattavissa": true,
+    "kysymys": "Montako asukasta on postinumeroalueella 00100?",
+    "vastaus": "DATASTA: LÖYTYY\nPostinumeroalueella 00100 (Helsinki keskusta - Etu-Töölö) on 18 492 asukasta.",
+    "oikein": true
+  },
+  {
+    "id": 2,
+    "vastattavissa": true,
+    "kysymys": "Mikä on Tampereen postinumeroalueiden yhteenlaskettu asukasmäärä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nTampereen 36 postinumeroalueen yhteenlaskettu asukasmäärä on 258 512.",
+    "oikein": true
+  },
+  {
+    "id": 3,
+    "vastattavissa": true,
+    "kysymys": "Millä postinumerolla on Suomen asukasmäärältään suurin postinumeroalue?",
+    "vastaus": "DATASTA: LÖYTYY\n\nSuurin postinumeroalue asukasmäärältään on postinumero **20100** (Turku Keskus, Turku), jossa on 31 156 asukasta.",
+    "oikein": true
+  },
+  {
+    "id": 4,
+    "vastattavissa": true,
+    "kysymys": "Mikä on asukkaiden mediaanitulo postinumeroalueella 02100?",
+    "vastaus": "DATASTA: LÖYTYY\n\nPostinumeroalueen 02100 (Tapiola, Espoo) asukkaiden mediaanitulo on 34 967 euroa.",
+    "oikein": true
+  },
+  {
+    "id": 5,
+    "vastattavissa": true,
+    "kysymys": "Monessako kunnassa on vähintään 30 postinumeroaluetta?",
+    "vastaus": "DATASTA: LÖYTYY\n\nVähintään 30 postinumeroaluetta on 16 kunnassa.",
+    "oikein": true
+  },
+  {
+    "id": 6,
+    "vastattavissa": true,
+    "kysymys": "Paljonko Kuopion postinumeroalueilla on työpaikkoja yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nKuopion 65 postinumeroalueella on yhteensä 52 349 työpaikkaa.",
+    "oikein": true
+  },
+  {
+    "id": 7,
+    "vastattavissa": true,
+    "kysymys": "Monellako postinumeroalueella asukkaiden keski-ikä on yli 60 vuotta?",
+    "vastaus": "DATASTA: LÖYTYY\n\nPostinumeroalueita, joiden asukkaiden keski-ikä on yli 60 vuotta, on 102. Tietokannassa on yhteensä 2954 aluetta, joilla keski-ikä on tiedossa.",
+    "oikein": true
+  },
+  {
+    "id": 8,
+    "vastattavissa": true,
+    "kysymys": "Montako työtöntä asuu Rovaniemen postinumeroalueilla yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nRovaniemen 47 postinumeroalueella asuu yhteensä 2 955 työtöntä (sarake `unemployed_pt`). Luku on tietokannan mukainen, ja vuosi on tietokannan vuosi (2024).",
+    "oikein": true
+  },
+  {
+    "id": 9,
+    "vastattavissa": true,
+    "kysymys": "Missä kunnassa on eniten postinumeroalueita?",
+    "vastaus": "DATASTA: LÖYTYY\nHelsingissä on eniten postinumeroalueita, 84 kappaletta. Seuraavaksi eniten ovat Kuopiossa (65), Kouvolassa (49), Rovaniemellä (47) ja Oulussa (46).",
+    "oikein": true
+  },
+  {
+    "id": 10,
+    "vastattavissa": true,
+    "kysymys": "Montako kotitaloutta asuu vuokra-asunnoissa Espoon postinumeroalueilla yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nEspoon 45 postinumeroalueella asuu yhteensä noin 68 861 kotitaloutta vuokra-asunnoissa.",
+    "oikein": true
+  },
+  {
+    "id": 11,
+    "vastattavissa": true,
+    "kysymys": "Mikä on asukkaiden keski-ikä postinumeroalueella 90100?",
+    "vastaus": "DATASTA: LÖYTYY\nPostinumeroalueen 90100 (Oulu Keskus, Oulu) asukkaiden keski-ikä on 42,0 vuotta.",
+    "oikein": true
+  },
+  {
+    "id": 12,
+    "vastattavissa": true,
+    "kysymys": "Montako rahoitus- ja vakuutusalan työpaikkaa on Helsingin postinumeroalueilla yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nHelsingin postinumeroalueilla (84 aluetta) on yhteensä 23 198 rahoitus- ja vakuutusalan työpaikkaa.",
+    "oikein": true
+  },
+  {
+    "id": 13,
+    "vastattavissa": true,
+    "kysymys": "Monellako postinumeroalueella asukasmäärä on nolla?",
+    "vastaus": "DATASTA: LÖYTYY\n\nPostinumeroalueita, joiden asukasmäärä on nolla, on 17 (kaikkiaan 3 018 alueesta). Puuttuvia asukasmäärätietoja ei ole.",
+    "oikein": true
+  },
+  {
+    "id": 14,
+    "vastattavissa": true,
+    "kysymys": "Montako asuntoa Turun postinumeroalueilla on yhteensä?",
+    "vastaus": "DATASTA: LÖYTYY\nTurun postinumeroalueilla on yhteensä noin 130 481 asuntoa (27 postinumeroaluetta).",
+    "oikein": true
+  },
+  {
+    "id": 15,
+    "vastattavissa": true,
+    "kysymys": "Monellako Jyväskylän postinumeroalueella asuu yli 1000 eläkeläistä?",
+    "vastaus": "DATASTA: LÖYTYY\n\nJyväskylän alueella on 12 postinumeroaluetta, joissa on yli 1000 eläkeläistä. Suurin määrä on Jyväskylä Keskuksessa (40100), jossa eläkeläisiä on 3 620. Lukuun sisältyvät myös Korpilahti Keskus (41800, 1 091) ja Tikkakoski (41160, 1 045), koska ne kuuluvat tietokannassa Jyväskylän kuntaan.",
+    "oikein": true
+  },
+  {
+    "id": 16,
+    "vastattavissa": false,
+    "kysymys": "Paljonko Oulun asukasmäärä kasvoi vuodesta 2020 vuoteen 2024?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa on vain yksi asukasmäärän tilannekuva ilman vuositietoa, eikä siinä ole vuoden 2020 lukuja, joten kasvua ei voi laskea. Oulun postinumeroalueiden asukasmäärien summa tietokannassa on 214 410 (46 aluetta). Tietokannasta ei myöskään selviä, mihin vuoteen tämä luku liittyy.",
+    "oikein": true
+  },
+  {
+    "id": 17,
+    "vastattavissa": false,
+    "kysymys": "Mikä oli postinumeroalueen 00100 mediaanitulo vuonna 2015?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole vuositietoa, joten vuoden 2015 lukua ei voi tarkistaa. Postinumeroalueen 00100 (Helsinki keskusta - Etu-Töölö) asukkaiden mediaanitulo on taulussa 34 408. Tämä on tietokannan ainoa mediaanitulo-arvo, eikä sitä voi varmistaa vuodelle 2015.",
+    "oikein": true
+  },
+  {
+    "id": 18,
+    "vastattavissa": false,
+    "kysymys": "Mikä postinumeroalue kasvoi nopeimmin viimeisen viiden vuoden aikana?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokanta sisältää vain yhden tilannekuvan postinumeroalueista eikä sisällä aikasarjoja. Taulussa `alueet` ei ole vuosissaraketta, joten väestön kasvua viiden vuoden aikana ei voi laskea. Voin kertoa esimerkiksi suurimmat asukasmäärät tai väestörakenteen nykytilanteessa, jos se auttaa.",
+    "oikein": true
+  },
+  {
+    "id": 19,
+    "vastattavissa": false,
+    "kysymys": "Mikä on asuntojen keskimääräinen neliöhinta postinumeroalueella 00100?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole asuntojen hintoja eikä neliöhintoja. Taulu \"alueet\" sisältää väestö-, tulo-, asunto- ja työpaikkatietoja postinumeroalueittain, mutta ei hintatietoja. Sarakekuvausten haku hintaan liittyvillä hakusanoilla ei tuottanut tuloksia, joten neliöhintaa postinumeron 00100 alueella ei voi laskea tästä tietokannasta.",
+    "oikein": true
+  },
+  {
+    "id": 20,
+    "vastattavissa": false,
+    "kysymys": "Kuinka monta ulkomaan kansalaista asuu Espoon postinumeroalueilla?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy tietoa ulkomaan kansalaisten määrästä. Alueet-taulun sarakkeissa on asukasmäärä, sukupuoli, ikä, koulutus, tulot, talouksien tiedot, rakennukset ja työpaikat, mutta ei kansalaisuutta. Sarakekuvauksista ei löydy hakusanoilla \"ulkomaa\", \"kansalai\", \"foreign\" tai \"citizen\" yhtään osumaa.",
+    "oikein": true
+  },
+  {
+    "id": 21,
+    "vastattavissa": false,
+    "kysymys": "Montako 0–2-vuotiasta lasta asuu Vantaan postinumeroalueilla?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole erillistä tietoa 0–2-vuotiaista lapsista. Saatavilla on vain ikäryhmä 0–14 vuotta (sarake `children_aged_0_to_14_pt`). Vantaan 37 postinumeroalueella tätä ikäryhmää asuu yhteensä 40 138 henkilöä. Tämä ei kuitenkaan ole vastaus kysymykseen, koska 0–2-vuotiaiden määrää ei voi erottaa.",
+    "oikein": true
+  },
+  {
+    "id": 22,
+    "vastattavissa": false,
+    "kysymys": "Mikä on keskimääräinen kuukausivuokra Kuopiossa?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy vuokratasoa euroina, joten keskimääräistä kuukausivuokraa Kuopiossa ei voi laskea. Taulussa on Kuopion postinumeroalueet, mutta ei vuokrahintoja. Siinä on vain tieto siitä, kuinka monta kotitaloutta asuu vuokra-asunnoissa (`households_living_in_rented_dwellings_te`). Vuokratason selvittämiseen tarvitset esimerkiksi Tilastokeskuksen tai asuntomarkkinatiedot.",
+    "oikein": true
+  },
+  {
+    "id": 23,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Helsingin kunnallisveroprosentti?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannasta ei löydy kunnallisveroprosenttia. Taulussa `alueet` on postinumeroalueiden väestö-, koulutus-, tulo-, asunto- ja työpaikkatietoja, mutta ei veroprosentteja. Myöskään sarakekuvauksista ei löydy veroon liittyviä sarakkeita.",
+    "oikein": true
+  },
+  {
+    "id": 24,
+    "vastattavissa": false,
+    "kysymys": "Kuinka moni Turun asukas omistaa auton?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole tietoa autojen omistuksesta. Taulujen sarakkeet kattavat asukasmäärät, iän, koulutuksen, tulot, asumisen ja työpaikat, mutta ajoneuvoja koskevia sarakkeita ei ole. Ainoa autoon liittyvä sarake kuvaa toimialaa (moottoriajoneuvojen kauppa ja korjaus), ei omistusta.",
+    "oikein": true
+  },
+  {
+    "id": 25,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Tampereen työttömyysaste syyskuussa 2024?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole ajankohtatietoa, joten en voi varmistaa, että data koskee syyskuuta 2024. Tietokanta sisältää yhden tilannekuvan postinumeroalueista ilman päivämäärää. Sen perusteella Tampereen työttömien osuus työvoimasta (työttömät / (työlliset + työttömät)) on noin 12,8 % (17 347 työytöntä, 118 057 työllistä). Tämä on laskettu, eikä tietokannassa ole valmista työttömyysastetta. Virallinen syyskuun 2024 luku kannattaa tarkistaa Tilastokeskuksesta.",
+    "oikein": true
+  },
+  {
+    "id": 26,
+    "vastattavissa": false,
+    "kysymys": "Miksi Espoon asukkaiden keskitulot ovat korkeammat kuin Vantaan?",
+    "vastaus": "EI LÖYDY\n\nTietokanta kertoo, mitä tuloissa on tapahtunut, mutta ei sitä, miksi. Syy-kysymyksiin tietokanta ei anna vastausta.\n\nTietokannan mukaan Espoon postinumeroalueilla keskitulo on keskimäärin noin 39 900 euroa ja Vantaan noin 30 800 euroa (postinumeroalueiden keskiarvot, painottamattomat). Mediaanitulot ovat 32 900 ja 28 700 euroa. Espoossa on myös enemmän korkeakoulututkinnon suorittaneita alueittain. Tämä on korrelaatio, ei todiste syystä. Tiedoista ei voi päätellä, johtuuko ero esimerkiksi koulutuksesta, työpaikkarakenteesta tai asumismuodoista.",
+    "oikein": true
+  },
+  {
+    "id": 27,
+    "vastattavissa": false,
+    "kysymys": "Miksi monen maaseutualueen keski-ikä on korkea?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokanta kertoo, mitä alueilla on, mutta ei sitä, miksi keski-ikä on korkea. Syitä (esimerkiksi muuttoliikettä nuorten lähtö kaupunkeihin tai syntyvyyden lasku) ei voi päätellä pelkästä datasta.\n\nHarvaan asutuilla alueilla (alle 5 asukasta/km²) keski-ikä on keskimäärin 48,1 vuotta, ja tietokannassa on mukana 3 018 aluetta. Vertailua tiheämpiin alueisiin en saanut tehtyä, koska kysely palautti vain tämän ryhmän. Taulussa on myös eläkeläisten, opiskelijoiden, lasten ja yksinasuvien määriä, mutta niiden yksiköitä en pystynyt varmistamaan.",
+    "oikein": true
+  },
+  {
+    "id": 28,
+    "vastattavissa": false,
+    "kysymys": "Paljonko Oulun asukasmäärän ennustetaan kasvavan vuoteen 2030 mennessä?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole ennusteita asukasmäärän kehityksestä, eikä sarakekuvauksissa ole mitään ennusteeseen liittyvää. Tiedot kuvaavat nykyistä tilannetta. Oulun postinumeroalueiden asukasmäärät yhteensä ovat 214 410. Vuoteen 2030 ulottuvaa ennustetta en pysty tietokannasta antamaan.",
+    "oikein": true
+  },
+  {
+    "id": 29,
+    "vastattavissa": false,
+    "kysymys": "Montako asukasta on postinumeroalueella 99999?",
+    "vastaus": "DATASTA: LÖYTYY\n\nPostinumeroa 99999 ei ole tietokannassa, joten sillä ei ole asukasmäärää. Lähin löytyvä on 99990 (Nuorgam, Utsjoki).",
+    "oikein": false
+  },
+  {
+    "id": 30,
+    "vastattavissa": false,
+    "kysymys": "Mikä on Lahden suosituin ravintola?",
+    "vastaus": "DATASTA: EI LÖYDY\n\nTietokannassa ei ole tietoa ravintoloiden suosiosta tai yksittäisistä ravintoloista. Se sisältää postinumeroalueittain väestö-, koulutus-, tulo- ja työpaikkatietoja.\n\nLähin tieto on majoitus- ja ravitsemistoiminnassa olevien työpaikkojen määrä. Lahdessa niitä on eniten postinumeroalueella 15110 (Keski-Lahti), 500 työpaikkaa. Seuraavina ovat 15140 (Kartano-Paavola) 292 ja 15610 (Laune-Nikkilä) 180. Tämä kertoo alueen ravintola-alan koosta, ei ravintolan suosiosta.",
+    "oikein": true
+  }
+]
